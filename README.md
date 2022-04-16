@@ -15,3 +15,5 @@ just run the main.py file (must be with the ui_main.py ) and you should get a us
 6. 'quit' to leave the app.
 
 of course it is not perfect it uses a very simple web scrapping methode using beautifull soup but it can be improved in the future.
+
+![example](https://user-images.githubusercontent.com/95067549/163674139-6c8d6953-a8da-4b32-a81a-b13a9a791236.PNG)
